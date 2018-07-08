@@ -2,36 +2,40 @@
   "VERSIONE": 1,
   "CONFIG": {
     "TITLE": "Scuole",
-    "SUBTITLE": "Menu e info sulle scuole di Desio"
+    "SUBTITLE": "Menu e info sulle scuole di Desio",
+    "NEWPAGE": 1
   },
-  "MENU": [
-    {
-      "ICON": "e80c",
-      "TITLE": "Scuola Prati",
-      "SUBTITLE": ""
-    },
-    {
-      "ICON": "e561",
-      "TITLE": "Menu",
-      "SUBTITLE": "Scuole dell'Infanzia e Primarie"
-    },
-    {
-      "ICON": "e561",
-      "TITLE": "Menu",
-      "SUBTITLE": "Scuole Secondarie 1°"
-    },
-    {
-      "ICON": "e561",
-      "TITLE": "Menu",
-      "SUBTITLE": "Scuola Infanzia Umbero I°"
-    },
-    {
-      "ICON": "f021",
-      "TITLE": "Refresh modulo",
-      "SUBTITLE": "Aggiorna dati modulo",
-      "ACTION": {
-        "TYPE": "REFRESH"
+  "ACTION": {
+    "TYPE": "MENU",
+    "MENU": [
+      {
+        "ICON": "e80c",
+        "TITLE": "Scuola Prati",
+        "SUBTITLE": ""
+      },
+      {
+        "ICON": "e561",
+        "TITLE": "Menu",
+        "SUBTITLE": "Scuole dell'Infanzia e Primarie"
+      },
+      {
+        "ICON": "e561",
+        "TITLE": "Menu",
+        "SUBTITLE": "Scuole Secondarie 1°"
+      },
+      {
+        "ICON": "e561",
+        "TITLE": "Menu",
+        "SUBTITLE": "Scuola Infanzia Umbero I°"
+      },
+      {
+        "ICON": "f021",
+        "TITLE": "Refresh modulo",
+        "SUBTITLE": "Aggiorna dati modulo",
+        "ACTION": {
+          "TYPE": "REFRESH"
+        }
       }
-    }
-  ]
+    ]
+  }
 }
