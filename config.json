@@ -1,11 +1,9 @@
 {
   "VERSIONE": 1,
-  "CONFIG": {
+  "ACTION": {
     "TITLE": "Scuole",
     "SUBTITLE": "Menu e info sulle scuole di Desio",
-    "NEWPAGE": 1
-  },
-  "ACTION": {
+    "NEWPAGE": true,
     "TYPE": "MENU",
     "MENU": [
       {
