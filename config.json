@@ -9,22 +9,43 @@
       {
         "ICON": "e80c",
         "TITLE": "Scuola Prati",
-        "SUBTITLE": ""
+        "SUBTITLE": "",
+        "ACTION": {
+          "TITLE": "Scuole",
+          "SUBTITLE": "Menu e info sulle scuole di Desio",
+          "TYPE": "MENU",
+          "MENU": [
+            {
+              "TITLE": "Calendario",
+              "ACTION": {
+                "TITLE": "Calendario",
+                "SUBTITLE": "Scuola Prati",
+                "TYPE": "WEB",
+                "WEB": {
+                  "LINK": "https://docs.google.com/viewer?url=https://www.icpratidesio.gov.it/wp-content/uploads/2018/07/Calendario-Scolastico-as-2018_19.pdf&embedded=true"
+                }
+              }
+            }
+          ]
+        }
       },
       {
         "ICON": "e561",
-        "TITLE": "Menu",
-        "SUBTITLE": "Scuole dell'Infanzia e Primarie"
+        "TITLE": "Menu - Scuole dell'Infanzia e Primarie",
+        "SUBTITLE": "",
+        "VISIBLE": false
       },
       {
         "ICON": "e561",
-        "TITLE": "Menu",
-        "SUBTITLE": "Scuole Secondarie 1°"
+        "TITLE": "Menu - Scuole Secondarie 1°",
+        "SUBTITLE": "",
+        "VISIBLE": false
       },
       {
         "ICON": "e561",
-        "TITLE": "Menu",
-        "SUBTITLE": "Scuola Infanzia Umbero I°"
+        "TITLE": "Menu - Scuola Infanzia Umbero I°",
+        "SUBTITLE": "",
+        "VISIBLE": false
       },
       {
         "ICON": "f021",
