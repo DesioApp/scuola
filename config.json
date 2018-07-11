@@ -30,6 +30,29 @@
         }
       },
       {
+        "ICON": "e80c",
+        "TITLE": "Scuola Agnesi",
+        "SUBTITLE": "",
+        "ACTION": {
+          "TITLE": "Scuola Agnesi",
+          "SUBTITLE": "",
+          "TYPE": "MENU",
+          "MENU": [
+            {
+              "TITLE": "Calendario",
+              "ACTION": {
+                "TITLE": "Calendario",
+                "SUBTITLE": "Scuola Agnesi",
+                "TYPE": "WEB",
+                "WEB": {
+                  "LINK": "https://docs.google.com/viewer?url=http://www.ic-agnesidesio.gov.it/wordpress/wp-content/uploads/2009/10/CALENDARIO-ANNO-SCOLASTICO-2018_2019-1.pdf&embedded=true"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
         "ICON": "e561",
         "TITLE": "Menu - Scuole dell'Infanzia e Primarie",
         "SUBTITLE": "",
