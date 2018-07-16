@@ -21,7 +21,9 @@
                 "SUBTITLE": "Scuola Prati",
                 "TYPE": "WEB",
                 "WEB": {
-                  "LINK": "https://docs.google.com/viewer?url=https://www.icpratidesio.gov.it/wp-content/uploads/2018/07/Calendario-Scolastico-as-2018_19.pdf&embedded=true"
+                  "TEST": "https://docs.google.com/viewer?url=https://www.icpratidesio.gov.it/wp-content/uploads/2018/07/Calendario-Scolastico-as-2018_19.pdf&embedded=true",
+                  "LINK": "cQaunM/m8BBDyZiCRn92ETngYssQYWizt0dElaqdPd4CLpHs9pNHDk45lqK4iwiTqXfQVGFK3kAZzszhNO5uy9//7hw8HjTc5eCfL+iqcQVtNfFhLzPufk2FxbAR/MpkZVWAeTMG3PnGnrNdRyi3TPZ62T7ApmWatnhT2AQUszTn2wvffSfy5/0/sDgmbiQUHjxSUkK4FBwuXJ8UTnf4SafVpC588COro2C2oji4AJRqyvNWbmM/GQtokEd8/K4eMWk+h7j1Fkgjk3Ajk9Hi//JD3YXc7NWGy3q7JQ1aj+V6Jps4/SNZmaZc0i8Z9NVkkW126YPeid/X/LgoFYC2tQ==",
+                  "RSA": true
                 }
               }
             }
