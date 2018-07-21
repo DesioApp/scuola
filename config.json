@@ -15,6 +15,7 @@
           "TYPE": "MENU",
           "MENU": [
             {
+              "ICON": "f073",
               "TITLE": "Calendario",
               "ACTION": {
                 "TITLE": "Calendario",
@@ -40,6 +41,7 @@
           "TYPE": "MENU",
           "MENU": [
             {
+              "ICON": "f073",
               "TITLE": "Calendario",
               "ACTION": {
                 "TITLE": "Calendario",
