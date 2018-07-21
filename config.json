@@ -60,7 +60,7 @@
               "ACTION": {
                 "TYPE":"INTENT",
                 "INTENT":{
-                  "VALUE":"https://www.icpratidesio.gov.it/"
+                  "VALUE":"http://www.ic-agnesidesio.gov.it/wordpress/"
                 }
               }
             }
