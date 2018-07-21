@@ -49,8 +49,18 @@
                 "TYPE": "WEB",
                 "WEB": {
                   "LINKOLD": "https://docs.google.com/viewer?url=http://www.ic-agnesidesio.gov.it/wordpress/wp-content/uploads/2009/10/CALENDARIO-ANNO-SCOLASTICO-2018_2019-1.pdf&embedded=true",
-                  "LINK":"fA6dEDEf5T2nJpEXds/MLakgoMa0uDDbOIBKaDpB0YMgFLdngFyGNGDllfsw70OALIcwvUnT5L8SA2qqgBNWijWTUdiZTieXLCGbuAiB4aq6XsNqpsxP7crSxKKm1lgbwuFDq1EoqdyIxdwjOQZ5r28XRi57VV21kC5puBH5oIvBl3hrHa3JxZn/C1PhN5Zl/J5JgvFiBdSBQlZIkUJBkw4W418fGKWV9TEXwLjPR6BzGu79UXKDQDDOBMLc+RW8MUfOnJyDq6OiLMHzvjBpp//gJIjzOricnK7M4GbU1dsC75ZVaGzgPb07Oy+W6LXVnyMMcCalRGjmbXObKnhHHQ==",
-                  "RSA":true
+                  "LINK": "fA6dEDEf5T2nJpEXds/MLakgoMa0uDDbOIBKaDpB0YMgFLdngFyGNGDllfsw70OALIcwvUnT5L8SA2qqgBNWijWTUdiZTieXLCGbuAiB4aq6XsNqpsxP7crSxKKm1lgbwuFDq1EoqdyIxdwjOQZ5r28XRi57VV21kC5puBH5oIvBl3hrHa3JxZn/C1PhN5Zl/J5JgvFiBdSBQlZIkUJBkw4W418fGKWV9TEXwLjPR6BzGu79UXKDQDDOBMLc+RW8MUfOnJyDq6OiLMHzvjBpp//gJIjzOricnK7M4GbU1dsC75ZVaGzgPb07Oy+W6LXVnyMMcCalRGjmbXObKnhHHQ==",
+                  "RSA": true
+                }
+              }
+            },
+            {
+              "ICON": "f0c1",
+              "TITLE": "Sito Web",
+              "ACTION": {
+                "TYPE":"INTENT",
+                "INTENT":{
+                  "VALUE":"https://www.icpratidesio.gov.it/"
                 }
               }
             }
